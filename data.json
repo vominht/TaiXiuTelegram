@@ -1,0 +1,88 @@
+[
+    {
+        "user_id": 5145402317,
+        "user_name": "ongnoicuamay",
+        "full_name": "VMT",
+        "balance": 6000000,
+        "used_giftcodes": [
+            "ADMIN",
+            "GIFT100",
+            "WELCOME2024",
+            "CHAO2024",
+            "TEST",
+            "511"
+        ]
+    },
+    {
+        "user_id": 6213067866,
+        "user_name": "hehebuffa",
+        "full_name": "Buffalo Trâu",
+        "balance": 1206811,
+        "used_giftcodes": [
+            "TEST"
+        ]
+    },
+    {
+        "user_id": 5772343324,
+        "user_name": "dvamod2k15",
+        "full_name": "Văn An |",
+        "balance": 89999,
+        "used_giftcodes": [
+            "DVAMOD",
+            "CHAO2024"
+        ]
+    },
+    {
+        "user_id": 5801140905,
+        "user_name": "d2kB1L7",
+        "full_name": "Ph Dang Khoa",
+        "balance": 400000
+    },
+    {
+        "user_id": 5369125841,
+        "user_name": "lln26",
+        "full_name": "Lê Long Nhật",
+        "balance": 650000,
+        "used_giftcodes": [
+            "WELCOME2024",
+            "GIFT100",
+            "CHAO2024"
+        ]
+    },
+    {
+        "user_id": 6622856474,
+        "user_name": "nguyenthihuyenbanzalo",
+        "full_name": "THỊ HUYỀN NGUYỄN",
+        "balance": 0,
+        "used_giftcodes": [
+            "TEST"
+        ]
+    },
+    {
+        "user_id": 5866472955,
+        "user_name": "bachviet15",
+        "full_name": "Bachviet",
+        "balance": 2321998,
+        "used_giftcodes": [
+            "GIFT100",
+            "CHAO2024",
+            "TEST"
+        ]
+    },
+    {
+        "user_id": 5929855663,
+        "user_name": "NPH_207",
+        "full_name": "Hello Killer",
+        "balance": 491512
+    },
+    {
+        "user_id": 6475205639,
+        "user_name": "manrealnogay",
+        "full_name": "std::cout << \"My power is shit\\n\";",
+        "balance": 40002,
+        "used_giftcodes": [
+            "TEST",
+            "CHAO2024"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+{
+  "admin_ids": [5145402317, 987654321],
+  "slot_machine": {
+    "min_bet": 10000,
+    "multipliers": {
+      "three_of_a_kind": 10,
+      "double_seven": 5,
+      "jackpot": 15
+    }
+  },
+  "taixiu": {
+    "min_bet": 5000,
+    "multipliers": {
+      "tai_xiu": 1.8,
+      "taixiu_chanle": 2.14
+    }
+  },
+  "chanle": {
+    "min_bet": 5000,
+    "multipliers": {
+      "chan_le": 1.4
+    }
+  },
+  "doanso": {
+    "min_bet": 10000,
+    "multiplier": 2.4
+  },
+  "darts": {
+    "min_bet": 5000,
+    "multipliers": {
+      "darts": 2,
+      "aim": 2.5
+    }
+  },
+  "bowling": {
+    "min_bet": 5000,
+    "multipliers": {
+      "bowling_tai_xiu_chan_le": 2,
+      "strike": 3
+    }
+  }
+}
